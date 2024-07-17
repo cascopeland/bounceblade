@@ -15,17 +15,12 @@ Start in the main menu scene, then proceed to the tutorial, followed by the othe
 - **Rotate Camera Angle:** Press E and Q
 - Bounce the ball off puzzles throughout the map to unlock new levels.
 
-## Technology Requirements
+## Helpful Facts
 - The character’s movements are controlled by root motion.
 - Skeletons patrol and switch to chasing AI when the player enters their detection range.
 - The fired ball will bounce without losing velocity.
 - The character follows the placement of the player’s mouse.
 - Nearly everything in the scene has a sound attached to it.
-
-## Known Issues
-- Skeletons sometimes get stuck on small assets.
-- It is unclear how long players must wait for the ball to despawn, which can affect immersion.
-- The big middle door in the hub area has no link to another scene.
 
 ## Contributions
 
