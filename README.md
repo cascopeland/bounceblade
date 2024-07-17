@@ -1,6 +1,3 @@
-Certainly! Here's a README file incorporating all the provided information without the names of contributors:
-
----
 
 # BounceBlade
 
@@ -61,5 +58,3 @@ Start in the main menu scene, then proceed to the tutorial, followed by the othe
 - [Poly Halloween](https://assetstore.unity.com/packages/3d/props/poly-halloween-236625)
 
 ---
-
-This README file summarizes the project's key aspects, how to play, technology requirements, known issues, and contributions, including referenced tutorials and assets.
